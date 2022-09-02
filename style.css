@@ -1,6 +1,6 @@
 @font-face {
-font-family:"Aeonik Pro" ;
-src: url('./aeonikpro.ttf');
+  font-family: "Aeonik Pro";
+  src: url("./aeonikpro.ttf");
 }
 * {
   margin: 0%;
@@ -643,9 +643,9 @@ h1 {
   border-bottom: 1px solid #444;
   font-weight: 300;
   color: #555;
-  
 }
-#lfooter textarea:focus,#lfooter input:focus{
+#lfooter textarea:focus,
+#lfooter input:focus {
   outline: none;
 }
 #lfooter button {
@@ -826,19 +826,19 @@ h1 {
   #partner #partners .partset p {
     font-size: 3vw;
   }
-  #work{
+  #work {
     height: 350vh;
   }
-  #work #texty{
+  #work #texty {
     position: absolute;
     width: 100vw;
     height: 140vh;
     padding-bottom: 30vh;
   }
-  .temp{
+  .temp {
     height: 50vh;
   }
-  .temp img{
+  .temp img {
     height: 43vh;
     width: 40vw;
     object-fit: cover;
@@ -846,64 +846,63 @@ h1 {
   .temp:hover img {
     height: 25vh;
   }
-  #img1{
+  #img1 {
     top: 25%;
     width: 40vw;
     font-size: 5vw;
   }
-  #img2{
+  #img2 {
     top: 42%;
     width: 40vw;
     left: 50%;
     font-size: 5vw;
   }
-  #img3{
+  #img3 {
     left: 20%;
     top: 58%;
     width: 40vw;
     font-size: 5vw;
   }
 
-  .temp .hiddenText{
+  .temp .hiddenText {
     font-size: 3vw;
   }
-  #footer{
+  #footer {
     height: initial;
     display: initial;
   }
-  #lfooter{
+  #lfooter {
     height: 90vh;
     padding: initial;
     width: 100vw;
     border: none;
   }
-  #lfooter h1{
+  #lfooter h1 {
     font-size: 7vw;
   }
-  #lfooter p{
+  #lfooter p {
     font-size: 3vw;
   }
-  #lfooter img{
+  #lfooter img {
     width: 80vw;
   }
-  #lfooter input{
+  #lfooter input {
     font-size: 5vw;
   }
-  #lfooter button{
+  #lfooter button {
     font-size: 4vw;
     padding: 1vh 5vw;
   }
-  #rfooter{
+  #rfooter {
     margin-top: 5vh;
     height: initial;
     padding: initial;
     width: 100vw;
   }
-  #rfooter a{
+  #rfooter a {
     font-size: 8vw;
   }
-  #rfooter .rfooterbox:nth-child(1)
-  {
+  #rfooter .rfooterbox:nth-child(1) {
     border-top: 1px solid rgba(255, 255, 255, 0.317);
   }
 }
