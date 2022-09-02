@@ -623,6 +623,7 @@ h1 {
   font-weight: 400;
   font-size: 3.5vw;
   margin-top: 10vh;
+  overflow: initial;
   margin-bottom: 5vh;
 }
 #lfooter p {
