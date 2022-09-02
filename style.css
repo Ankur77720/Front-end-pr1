@@ -806,7 +806,7 @@ h1 {
     height: initial;
   }
   #partner h1 {
-    font-size: 8vw;
+    font-size: 9vw;
     width: 100vw;
   }
   #partner #partners .partset {
@@ -824,10 +824,10 @@ h1 {
     display: none;
   }
   #partner #partners .partset p {
-    font-size: 3vw;
+    font-size: 3.5vw;
   }
   #work {
-    height: 350vh;
+    height: 330vh;
   }
   #work #texty {
     position: absolute;

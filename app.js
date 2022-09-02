@@ -277,11 +277,9 @@ gsap.to("#texty", {
     scroller: "#main",
     start: "top 0%",
     end: "bottom -85%",
-    scrub: true,
     pin: "#texty p",
-    pinSpacing: false,
-    pinReparent: true,
+    // pinSpacing: false,
+    // pinReparent: true,
     anticipatePin: 1,
-    onUpdate() {},
   },
 });
